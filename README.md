@@ -16,7 +16,7 @@ Two bugs here:
 
 https://user-images.githubusercontent.com/72810910/123292776-61e41600-d4e1-11eb-8abe-2b6d896b5b70.mov
 
-Radar FB9206676
-
+Apple Report# FB9206676
+https://openradar.appspot.com/radar?id=5037774327513088
 
 
