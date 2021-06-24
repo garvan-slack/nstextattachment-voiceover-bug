@@ -1,0 +1,1 @@
+# nstextattachment-voiceover-bug
